@@ -1,0 +1,85 @@
+*{
+    background-color: #effdef;
+}
+.head{
+    display: flex;
+    justify-content: center;
+}
+.image{
+    height: 200px;
+    width: 230px;
+    border-radius: 100px;
+    background-color: black;
+    background-image: url(pfp2.png);
+    background-size: cover;
+}
+.h1{
+    margin-top: 80px;
+}
+.exp{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+.exppic{
+    display: flex;
+    justify-content: center;
+}
+.exp1{
+    height: 350px;
+    width: 350px;
+    background-color: black;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-image: url(HTML-Blog-Cover.png);
+    background-size: contain;
+}
+.exp2{
+    height: 350px;
+    width: 350px;
+    background-color: black;
+    margin-right: 10px;
+    border-radius: 10px;
+    background-image: url(Vp9WvV7YKdH4k8sKRePcE8.jpg);
+    background-size: contain;
+}
+.exp3{
+    height: 350px;
+    width: 350px;
+    background-color: black;
+    border-radius: 10px;
+    background-image: url(JavaScript-Logo.png);
+    background-size: contain;
+}
+.skills{
+    display: flex;
+    justify-content: center;
+}
+.skill1{
+    margin-right: 150px;
+    border-width: 10px;
+    border-color: black;
+}
+.skill2{
+    margin-right: 160px;
+    border-width: 10px;
+    border-color: black;
+}.skill3{
+    margin-right: 100px;
+    border-width: 10px;
+    border-color: black;
+}
+.certification{
+    display: flex;
+    justify-content: center;
+}
+
+.certpic{
+    height: 400px;
+    width: 550px;
+    background-image: url(Umer\ Farooq\ Popalzai\ \(1\).png);
+    background-size: cover;
+    margin-left: 380px;
+}
